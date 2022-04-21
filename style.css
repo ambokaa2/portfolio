@@ -185,6 +185,7 @@ body.dark-theme {
 
 .profile__name {
   font-size: var(--h2-font-size);
+  cursor: pointer;
 }
 
 .profile__profession {
